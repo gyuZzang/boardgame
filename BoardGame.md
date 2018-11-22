@@ -1,4 +1,9 @@
-Some Markdown text with <span style="color:blue">some blue text</span>
+<style>
+  table {
+    width: 100%;
+    border: 1px solid #444444;
+  }
+</style>
 <table>
     <tr>
       <th style="background-color:powderblue;">시작<br>용돈</th>
