@@ -1,7 +1,7 @@
 Some Markdown text with <span style="color:blue">some blue text</span>
 <table>
     <tr>
-      <th bgcolor="#ff1744">시작<br>용돈</th>
+      <th style="background-color:powderblue;">시작<br>용돈</th>
       <th bgcolor="#ff1744">도서관</th>
       <th bgcolor="#ff1744">PC방</th>
       <th bgcolor="#ff1744">족보<br>(아이템)</th>
