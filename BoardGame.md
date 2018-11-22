@@ -1,3 +1,4 @@
+Some Markdown text with <span style="color:blue">some blue text</span>
 <table>
     <tr>
       <th bgcolor="#ff1744">시작<br>용돈</th>
